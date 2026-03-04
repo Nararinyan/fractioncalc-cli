@@ -6,6 +6,6 @@ I vibecoded this with claude AI, so if there's any flaws just tell me
 
 to use, copy this command to your terminal
   
-  git clone https://github.com/Nararinyan/fractioncalc-cli
-  cd fractioncalc-cli
-  bash install.sh
+  git clone https://github.com/Nararinyan/fractioncalc-cli &&
+  cd fractioncalc-cli &&
+  bash install.sh &&

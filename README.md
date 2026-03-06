@@ -1,8 +1,8 @@
 # fractioncalc-cli
-A cli-based fraction calculator inspired by Ashyraffa
+A cli-based fraction calculator inspired by Ashyraffa32's [FractionCalc](https://ashyraffa32.github.io/FractionCalcSite)
 
 I made this because I was really impressed with the fractioncalc by Ashyraffa.
-I vibecoded this with claude AI, so if there's any flaws just tell me
+I vibecoded this with claude AI, so if there's any flaws just tell me!
 
 to use, copy this command to your terminal
   
